@@ -1,30 +1,27 @@
 # bot.py
 import os
 import random
-
-import discord
 from dotenv import load_dotenv
+
+from discord.ext import commands
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 
-bot = discord.Client()
+bot = commands.Bot(command_prefix='!')
 
 @bot.event
 async def on_ready():
-    print(f'{bot.user} has connected to Discord!')
-    for guild in bot.guilds:
+    print(f'{bot.user.name} has connected to Discord!')
 
-        print(
-            f'{bot.user} is connected to the following guild:\n'
-            f'{guild.name}(id: {guild.id})'
-        )
+@bot.command(name='pete')
+async def pete(ctx):
+    potato_facts = [
+        "potatoes are cool",
+        "potato is spelled p-o-t-a-t-o"
+    ]
 
-@bot.event
-async def on_message(message):
-    if message.author == bot.user:
-        return
-    if 'pete!!!' in message.content.lower():
-        await message.channel.send('potato fact!')
+    response = random.choice(potato_facts)
+    await ctx.send(response)
 
 bot.run(TOKEN)
