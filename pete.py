@@ -16,10 +16,10 @@ async def on_ready():
 
 @bot.command(name="pete", help="responds with a cool fact about potatoes!")
 async def pete(ctx):
-    potato_facts = [
-        "potatoes are cool",
-        "potato is spelled p-o-t-a-t-o"
-    ]
+    file = open("facts.txt", "r")
+    potato_facts = []
+    for line in file.readlines()[1:]:
+        potato_facts.append(line)
 
     response = random.choice(potato_facts)
     await ctx.send(response)
