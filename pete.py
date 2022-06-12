@@ -14,7 +14,7 @@ bot = commands.Bot(command_prefix='!')
 async def on_ready():
     print(f'{bot.user.name} has connected to Discord!')
 
-@bot.command(name='pete')
+@bot.command(name="pete", help="responds with a cool fact about potatoes!")
 async def pete(ctx):
     potato_facts = [
         "potatoes are cool",
