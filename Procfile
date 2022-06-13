@@ -1,1 +1,1 @@
-worker: python pete.py 
+worker: python3 pete.py 
