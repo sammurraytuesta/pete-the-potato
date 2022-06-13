@@ -1,1 +1,2 @@
-worker: python3 pete.py
+web: python pete.py
+worker: python pete.py 
