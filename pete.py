@@ -1,9 +1,10 @@
 # bot.py
 import random
+import discord
 
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='!')
+bot = commands.Bot(command_prefix='!',intents=discord.Intents.default())
 
 @bot.event
 async def on_ready():
