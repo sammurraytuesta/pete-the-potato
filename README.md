@@ -4,7 +4,15 @@ A discord bot developed using Python and hosted using GitHub and Heroku. Its mai
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![python-version](https://img.shields.io/badge/Python-3.9.1-blue.svg)](https://shields.io/) [![made-with-heroku](https://img.shields.io/badge/Made%20with-Heroku-5D3FD3.svg)](https://www.heroku.com) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/sammurraytuesta)
 
-https://discord.com/api/oauth2/authorize?client_id=985337005074415616&permissions=274878028800&scope=bot
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Program-Specification">Program Specification</a></li>
+    <li><a href="#Sample-Invocation">Sample Invocation</a></li>
+    <li><a href="#Add-Pete-to-Your-Server">Add Pete to Your Server!</a></li>
+    <li><a href="#Thank-You">Thank You!</a></li>
+</details>
 
 ## Program Specification 
 
@@ -13,3 +21,9 @@ https://discord.com/api/oauth2/authorize?client_id=985337005074415616&permission
 ## Sample Invocation
 
 <img width="550px" src="pete-command.png" alt="pete-command">
+  
+## Add Pete to Your Server!
+https://discord.com/api/oauth2/authorize?client_id=985337005074415616&permissions=274878028800&scope=bot
+  
+## Thank You!
+Enjoy all the potato facts!
