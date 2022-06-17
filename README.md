@@ -6,10 +6,10 @@ A discord bot developed using Python and hosted using GitHub and Heroku. Its mai
 
 https://discord.com/api/oauth2/authorize?client_id=985337005074415616&permissions=274878028800&scope=bot
 
-## About Pete 
+## Program Specification 
 
-![pete-discord](pete-discord.png)
+<img width="550px" src="pete-discord.png" alt="pete-discord">
 
-## Usage
+## Sample Invocation
 
-![pete-command](pete-command.png)
+<img width="550px" src="pete-command.png" alt="pete-command">
