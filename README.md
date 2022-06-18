@@ -58,13 +58,13 @@ https://discord.com/api/oauth2/authorize?client_id=985337005074415616&permission
 
 ### Permissions
 In connecting Pete to your server you are allowing him to:
-- Read Messages
-- Send Messages
-- Send Messages in Threads
-- Send TTS Messages
-- Embed Links (for future developments)
-- Attach Files (for future developments)
-- Read Message History
+- [x] Read Messages
+- [x] Send Messages
+- [x] Send Messages in Threads
+- [x] Send TTS Messages
+- [x] Embed Links (for future developments)
+- [x] Attach Files (for future developments)
+- [x] Read Message History
   
 Note: Pete **cannot** read or send messges as you.
   
