@@ -22,7 +22,7 @@ A discord bot developed using Python and the Discord Developer Portal and hosted
         <li><a href="#Permissions">Permissions</a></li>
       </ul>
     </li>
-    <li><a href="#Top">Top.gg</a></li>
+    <li><a href="#Top.gg">Top.gg</a></li>
     <li><a href="#Questions-or-Ideas">Questions or Ideas</a></li>
     <li><a href="#Thank-You">Thank You!</a></li>
 </details>
