@@ -73,7 +73,7 @@ In connecting Pete to your server you are allowing him to:
 Note: Pete **cannot** read or send messges as you.
 
 ## Top.gg
-You can also find pete on Top.gg, the #1 discordbot list! Link below!
+You can also find pete on Top.gg, the #1 discord bot list! Link below!
 
 https://top.gg/bot/985337005074415616
 
