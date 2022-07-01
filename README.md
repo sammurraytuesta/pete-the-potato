@@ -22,7 +22,7 @@ A discord bot developed using Python and the Discord Developer Portal and hosted
         <li><a href="#Permissions">Permissions</a></li>
       </ul>
     </li>
-    <li><a href="#Pete-is-on-Top">Pete is on Top.gg!</a></li>
+    <li><a href="#Top-gg">Top.gg</a></li>
     <li><a href="#Questions-or-Ideas">Questions or Ideas</a></li>
     <li><a href="#Thank-You">Thank You!</a></li>
 </details>
@@ -72,12 +72,14 @@ In connecting Pete to your server you are allowing him to:
   
 Note: Pete **cannot** read or send messges as you.
 
-## Pete is on Top.gg!
+## Top.gg
+<section class="Top-gg">
 You can also find pete on Top.gg, the #1 discordbot list! Link below!
 
 https://top.gg/bot/985337005074415616
 
 Feel free to tell pete he's doing a good job!
+</section>
   
 ## Questions or Ideas
 For any questions you may have about Pete feel free to join PeteThePotato's Official Discord Server and send your questions to the question channel. For any ideas that you may have to make Pete better, message the idea channel! 
