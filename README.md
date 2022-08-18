@@ -1,4 +1,4 @@
-# PeteThePotato 
+# Pete the Potato 
 
 A discord bot developed using Python and the Discord Developer Portal and hosted using GitHub and Heroku. Its main function is to provide you with random facts about potatoes derived from various sources on the internet and stored in a text file. Use the command *!pete* to prompt Pete for a fact!
 
