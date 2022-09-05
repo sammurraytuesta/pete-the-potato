@@ -31,7 +31,7 @@ A discord bot developed using Python and the Discord Developer Portal and hosted
   
 Pete the Potato is a bot developed in Python and created using the Discord Developer Portal for fun potato facts in discord servers! He is hosted using GitHub and Heroku–a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. Pete uses a text file to store all his knowledge on potatoes and parses the file to store each fact in a dictionary. Using this dictionary, Pete randomly selects a fact and sends it as a discord message to the user.
 
-<img width="550px" src="pete-discord.png" alt="pete-discord">
+<img width="550px" src="images/pete-discord.png" alt="pete-discord">
 
 ## Sample Invocation
 The prefix *!* is how Pete knows he is being called. Use the prefix *!* in your discord server to get his attention!
@@ -53,7 +53,7 @@ As of right now, Pete's only command other than *!help* is *!pete* which is spec
 ### !pete
 In your discord server, message Pete by using the prefix *!* with the command *pete* (example: *!pete*) to prompt Pete for a random fact about potatoes! See sample invocation below:
 
-<img width="550px" src="pete-command.png" alt="pete-command">
+<img width="550px" src="images/pete-command.png" alt="pete-command">
   
 ## Add Pete to Your Server!
 Click the link below to add Pete to your server:
