@@ -2,7 +2,7 @@
 
 A discord bot developed using Python and the Discord Developer Portal and hosted using GitHub and Heroku. Its main function is to provide you with random facts about potatoes derived from various sources on the internet and stored in a text file. Use the command *!pete* to prompt Pete for a fact!
 
-===================== As of 11/27/2023 Pete the Potato is no longer available ===================== 
+===================== As of 11/27/2022 Pete the Potato is no longer available ===================== 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![python-version](https://img.shields.io/badge/Python-3.9.1-blue.svg)](https://shields.io/) [![made-with-heroku](https://img.shields.io/badge/Made%20with-Heroku-5D3FD3.svg)](https://www.heroku.com) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/sammurraytuesta)
 
@@ -83,10 +83,6 @@ Feel free to tell pete he's doing a good job!
   
 ## Questions or Ideas
 For any questions you may have about Pete feel free to join PeteThePotato's Official Discord Server and send your questions to the question channel. For any ideas that you may have to make Pete better, message the idea channel! 
-  
-Link to join PeteThePotato's Official Discord Server:
-
-https://discord.gg/5AW6GQXk
   
 ## Thank You!
 Enjoy all the potato facts!
