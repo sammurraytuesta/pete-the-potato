@@ -83,6 +83,10 @@ Feel free to tell pete he's doing a good job!
   
 ## Questions or Ideas
 For any questions you may have about Pete feel free to join PeteThePotato's Official Discord Server and send your questions to the question channel. For any ideas that you may have to make Pete better, message the idea channel! 
+
+Link to join PeteThePotato's Official Discord Server:
+
+https://discord.gg/5AW6GQXk
   
 ## Thank You!
 Enjoy all the potato facts!
